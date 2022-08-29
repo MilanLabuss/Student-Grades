@@ -1,2 +1,2 @@
 # Student-Grades
-This javaFX application store student records, the records consist of information about the student, their modules and grades. This application allows the education institute to stay up to date with the students performance
+This javaFX application store student records, the records consist of information about the student, their modules and grades. This application allows the education institute to stay up to date with the students performance by checking having the ability to log the grade, add and remove students and their modules and grades as well as list all of the students completed moduels based on the grade they got
